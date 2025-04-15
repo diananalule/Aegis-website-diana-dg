@@ -35,7 +35,7 @@ Follow these steps to set up the project locally.
 ### **2️⃣ Install Dependencies**
 #### **Frontend**
 ```bash
- cd aegis-frontend
+ cd frontend
  npm install
 ```
 #### **Backend**
